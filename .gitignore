@@ -1,0 +1,9 @@
+# Ignorar bancos de dados SQLite (são binários grandes e mudam sempre)
+*.db
+
+# Outros comuns
+*.log
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
