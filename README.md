@@ -16,5 +16,5 @@ Organizado por seções para facilitar o aprendizado:
 
 Projeto criado para fixar conceitos de banco de dados relacional.
 
-Feito com dedicação em Taquaritinga-SP ❤️  
+Feito em Santa Ernestina-SP ❤️  
 Fevereiro 2026
